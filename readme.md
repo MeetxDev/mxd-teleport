@@ -13,7 +13,7 @@ Only Admin can use all 4 commands
 
 *Future Ideas*
 ```
-1) Use NUI for all
+1) Convert to NUI
 2) Delete all feature
 ```
 
