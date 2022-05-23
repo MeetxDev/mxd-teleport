@@ -1,4 +1,4 @@
-This is a script to create Save name and location in database through command and then directly teleoprt using name next time
+This is a script to create Save name and location in database through command and then directly teleport using name next time
 
 Offers 4 Commands:
 
