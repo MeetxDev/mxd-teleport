@@ -11,5 +11,11 @@ All commands name can be changed from config
 
 Only Admin can use all 4 commands
 
+*Future Ideas*
+```
+1) Use NUI for all
+2) Delete all feature
+```
+
 Created By : MeetxDev#0421
 Support Discord : https://discord.gg/AquwCR3CQb
