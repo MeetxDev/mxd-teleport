@@ -19,3 +19,5 @@ Only Admin can use all 4 commands
 
 Created By : MeetxDev#0421
 Support Discord : https://discord.gg/AquwCR3CQb
+Like my Work : https://ko-fi.com/meetxdev
+
